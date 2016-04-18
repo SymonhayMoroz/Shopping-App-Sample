@@ -1,4 +1,4 @@
-Shopping cart example app
+Shopping App Sample
 =========================
 
 This is a simple iOS app that demonstrates the functionality of a shopping cart.
